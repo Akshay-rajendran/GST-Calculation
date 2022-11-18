@@ -1,0 +1,59 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+.calcu{
+    border: 2px solid black;
+    width: 350px;
+    height: 415px;
+   display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+   border-radius: 5px;
+   background-color: #e4e4e4;
+}
+.calcu:hover{
+    box-shadow:5px 5px 20px #807e80;
+    
+}
+.btn{
+    margin-top: 5px;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+
+
+.gst-value{
+    margin-bottom: 15px;
+}
+    
+
+    
+
+
+    
+
+h1{
+    font-style: inherit;
+    text-decoration: underline;
+    color: red;
+}
+h3{
+    font-size: x-large;
+}
+p{
+    width: 50px;
+    height: 25px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    color: black;
+    border-radius: 3px;
+}
